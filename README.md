@@ -1,1 +1,2 @@
-# Project1Repo
+# Project1Repo 
+Christian Thomson
