@@ -14,3 +14,9 @@ To complete our objective the data we have from the city health inspections does
 We then used matplotlib to make our graphical representations of the data. Box Plot Linear Regressions were the most informative graphs we could make. <br> 
 ![Boxplot](https://github.com/DCMilligan88/PriceVsHealth/blob/master/Pngs/Box%20plot.png) 
 ![LinearRegression](https://github.com/DCMilligan88/PriceVsHealth/blob/master/Pngs/moderate_LR.png)
+
+## Conclusion
+It appears that, at least with the tests we ran, there is no corelation between the price point of a restaurant and the health inspection ratings. 
+
+## Things to keep in mind
+If you look at our box plot you will notice that majority of our data is above 80 percent everything else is an outlier. Going further we could ignore anything with a health inspection below 80 percent and that would give us a clearer view of any possible corelation. Another problem is that there are only 3 categories, more information would show a better relationship, the yelp API simply doesn't provide enough information.
